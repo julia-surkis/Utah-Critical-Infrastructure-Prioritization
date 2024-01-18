@@ -3,7 +3,6 @@ import glob, os, sys
 from arcgis import GIS
 from arcgis.features import FeatureLayerCollection
 import Image
-from PIL import Image
 
 # Login to ArcGIS Online
 user = "********"
